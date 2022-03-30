@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **my_portofolio**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **everything** (ethical hacking | Artificial Intelligence )
 
 - 📝 I regularly write articles on [https://alorsondev.digitalpress.blog/](https://alorsondev.digitalpress.blog/)
 
-- 💬 Ask me about **javascript related stuff**
+- 💬 Ask me about **javascript related stuff & ethical hacking**
 
 - 📫 How to reach me **emmanuelbidzang@gmail.com**
 
