@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://alorsondev.digitalpress.blog/](https://alorsondev.digitalpress.blog/)
 
-- 💬 Ask me about **javascript related stuff & ethical hacking**
+- 💬 Ask me about **javascript related stuff & ethical hacking & cybersecurity**
 
 - 📫 How to reach me **emmanuelbidzang@gmail.com**
 
