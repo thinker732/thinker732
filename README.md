@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **I like learning languages and i'm also a junior senator for United Nations**
 
+<pre><font color="#34E2E2"><b>&lt;</b></font><font color="#FFCE51">p</font><font color="#34E2E2"><b>&gt;&lt;</b></font><font color="#FFCE51">img</font><font color="#34E2E2"><b> </b></font><font color="#87FFAF">align</font><font color="#34E2E2"><b>=</b></font><font color="#AD7FA8">&quot;right&quot;</font><font color="#34E2E2"><b> </b></font><font color="#87FFAF">src</font><font color="#34E2E2"><b>=</b></font><font color="#AD7FA8">&quot;https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif&quot;</font><font color="#34E2E2"><b> </b></font><font color="#87FFAF">alt</font><font color="#34E2E2"><b>=</b></font><font color="#AD7FA8">&quot;Edghi&quot;</font><font color="#34E2E2"><b> /&gt;&lt;/</b></font><font color="#FFCE51">p</font><font color="#34E2E2"><b>&gt;</b></font>
+</pre>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
