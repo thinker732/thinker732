@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Daniel aka [shadow_master]</h1>
 <h3 align="center">I'm a Computer science engineering student, Web and software Developer, Javascript enthousiast and Ethical Hacker !!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thinker732&label=Profile%20views&color=0e75b6&style=flat" alt="thinker732" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thinker732&label=Profile%20views&color=0e75b6&style=flat" alt="thinker732" /> </p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif " /></p>
 - 🔭 I’m currently working on **my_portofolio**
 
 - 🌱 I’m currently learning **everything** (ethical hacking | Artificial Intelligence )
@@ -17,7 +18,7 @@
 
 - ⚡ Fun fact **I like learning languages and i'm also a junior senator for United Nations**
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif " /></p>
+
 
 
 ### Blogs posts
@@ -40,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thinker732&show_icons=true&locale=en" alt="thinker732" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinker732&" alt="thinker732" /></p>
+
