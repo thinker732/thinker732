@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinker732&label=Profile%20views&color=0e75b6&style=flat" alt="thinker732" /> </p>
 
-- 🔭 I’m currently working on **my_portofolio**
+- 🔭 I’m currently working on **Blockchain technologies**
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="gif " /></p>
 - 🌱 I’m currently learning **everything** (ethical hacking | Artificial Intelligence )
 
