@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Daniel aka [shadow_master]</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Daniel aka [shadow_master/baed]</h1>
 <h3 align="center">I'm a Computer science engineering student, Web and software Developer, Javascript enthousiast and Ethical Hacker !!</h3>
 
 
